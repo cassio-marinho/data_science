@@ -15,7 +15,7 @@ All projects
   
 Since my primary language is Portuguese feel free to talk / write in Portuguese or English.
 
-# (PT) Bem-Vindos/Bem-Vindas a Meu Espaço de Ciências de Dados
+# (PT) Bem-Vindos(as) a Meu Espaço de Ciências de Dados
 
 
 Esse é um lugar para disponibilizar todos os meus projetos da minha graduação na XPe e alguns dos meus mais importantes projetos na CS50x.
