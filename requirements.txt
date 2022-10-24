@@ -1,7 +1,6 @@
 jupyterlab
 nbclient
 pandas
-pandas
 numpy
 seaborn
 matplotlib
