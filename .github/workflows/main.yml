@@ -33,5 +33,5 @@ jobs:
 
       - id: jupyter
         name: Jupyter Notebook Execution
-        run: jupyter execute customer_analysis_last_3_months.ipynb
+        run: jupyter execute data_analysis/bootcamp_M1/customer_analysis_last_3_months.ipynb
         shell: bash
