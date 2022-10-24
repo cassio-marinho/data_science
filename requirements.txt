@@ -1,0 +1,10 @@
+jupyterlab
+nbclient
+pandas
+pandas
+numpy
+seaborn
+matplotlib
+plotly
+sklearn
+copy
