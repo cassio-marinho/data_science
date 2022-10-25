@@ -1,3 +1,4 @@
+![Tests](https://github.com/cassio-marinho/data_science/actions/workflows/main.yml/badge.svg)
 # (EN) Welcome to My Data Science Space
 
 
