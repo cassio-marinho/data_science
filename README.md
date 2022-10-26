@@ -2,9 +2,9 @@
 # (EN) Data Science Space
 
 ## About this repo
-This is a place to showcase all my XPe projects and some of my important projects at CS50x.
+This is a place to showcase my XPe projects, some of my important projects at CS50x and other personal data science related projects.
 
-All projects are separated by bootcamps courses. 
+All XPe projects are separated by bootcamps courses. CS50x projects and personal projects will be added soon.
 
 ## What we have
 Right now, we have the following bootcamps activities:
@@ -21,9 +21,9 @@ Since my primary language is Portuguese feel free to talk / write in Portuguese 
 # (PT) Espaço de Ciências de Dados
 
 ## Sobre esse repositório 
-Esse é um lugar para disponibilizar todos os meus projetos da minha graduação na XPe e alguns dos meus mais importantes projetos na CS50x.
+Esse é um lugar para disponibilizar meus projetos da minha graduação na XPe, alguns dos meus projetos na CS50x e alguns projetos de ciências de dados pessoais.
 
-Todos os projetos estão separados por bootcamps. 
+Todos os projetos da XPe estão separados por bootcamps. Projetos da CS50x e pessoais serão adicionados em breve.
 
 ## O que temos
 Até agora, temos os seguintes projetos por bootcamps:
